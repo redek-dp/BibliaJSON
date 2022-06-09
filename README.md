@@ -17,3 +17,9 @@ Cada abreviação corresponde a:
 Este repositório disponibiliza cada livro em um arquivo separado nas três traduções disponíveis em pastas separadas, tornado mais leve o carregamento e fácil a indexação por parte da aplicação.
 
 Aviso: A conversão foi automatizada e pode estar desatualizada com o repositório original, os arquivos originais continham alguns erros pois eram oriundos de um crawler e divergiam na padronização do formato no momento que convertidos, então é possível que existam erros em algum ou vários arquivos deste repositório.
+
+https://www.abibliadigital.com.br/api/
+
+https://www.abibliadigital.com.br/api/verses/acf/sl/23
+
+https://www.abibliadigital.com.br/api/books/
